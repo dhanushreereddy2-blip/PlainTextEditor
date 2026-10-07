@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>save-solid.svg</file>
+        <file>about.svg</file>
+        <file>copy.svg</file>
+        <file>cut.svg</file>
+        <file>find.svg</file>
+        <file>font.svg</file>
+        <file>highlight.svg</file>
+        <file>new.svg</file>
+        <file>open.svg</file>
+        <file>paste.svg</file>
+        <file>redo.svg</file>
+        <file>reset-zoom.svg</file>
+        <file>save-as.svg</file>
+        <file>text-color.svg</file>
+        <file>undo.svg</file>
+        <file>zoom-in.svg</file>
+        <file>zoom-out.svg</file>
+    </qresource>
+</RCC>
